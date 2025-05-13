@@ -132,7 +132,6 @@ mutation {
     description: "Open source talk"
     date: "2025-06-01T18:00:00Z"
     location: "Online"
-    creator_id: "<your user.id from token>"
   ) {
     id
     title
